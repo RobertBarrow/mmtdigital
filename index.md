@@ -1,22 +1,22 @@
-# Wiltshire Farm Foods
+# Wiltshire Farm Foods - Strategy Outline document (May 2019)
 
-## Strategy Outline document (May 2019)
+## Existing website
 
-### Existing website
-
-#### Maintenance
+### Maintenance
 
 * Kentico upgrades - from 8.x to 12.x
 * Microsoft Dynamics ERP - regression testing, fix and deploy updates
 * Potential Microsoft SharePoint integration
 
-#### Payments
+### Payments
 
 * Additional payment gateways - PayPal, Mastercard, VISA
 * Additional payment methods - Credit card, Debit card, PayPal, Gift Card, Voucher code
 
-#### Personalisation
+### Website Personalisation
 
+* Add Allergies and medical conditions (e.g. Celiac disease)
+* Set Dietary preferences (e.g. low sugar)
 * View Meal planner
 * Add Meal to Meal planner
 * Add Meal to Favourites
@@ -24,13 +24,23 @@
 * Review a Meal
 * Browse recommendations
 * Targeted discounts & eVouchers
-* Taillored email marketing
+* Tailored email marketing
 
-#### ChatBot
+### ChatBot
 
 * AI chatbot backed up by 24/7 order line team
 
-### Greenfield App development project
+## Apetito
+
+* Analytics (search queries, page visits, purchase history, dietry requirements, demographics, geographics)
+* Franchisee support (via video based eLearning portal)
+* Website re-skin/re-model for other B2B subsidiaries;
+* Hospitals, Nursing homes, Nursaries, Local authorities
+* Additional payment gateways/methods and delayed payment/invoicing model
+* Greenfield App development project
+* Voice assistance project
+
+### Apetito / Wiltshire Farm Foods app
 
 #### Security & simplification of authentication
 
@@ -71,39 +81,21 @@
 * Nutritional value
 * Packaging recycling information
 * Provenance; supplier locality, Animal welfare, Ethical & Sustainable sources
-* Add to favourites
-* Add rating
-* Add review
-* Re-order/replenishment
 
 #### Personalisation
 
+* Add Allergies and medical conditions (e.g. Celiac disease)
+* Set Dietary preferences (e.g. low sugar)
 * View Meal planner
 * Add Meal to Meal planner
 * Add Meal to favourites
 * Add Meal rating
 * Add Meal reviews
 * Browse recommendations
-* Configure allergies, medical conditions
 
-#### Voice Assistance
+### Voice Assistance
 
 * Alexa, Siri, Cortana, Google Assistant etc.
-* Reminders/notifications (deliveries, meal plan)
-* Audio descriptive (as per 'AR' section)
-
-### Apetito
-
-* Re-skin website & app for other B2C subsidiaries
-* Re-model website & app for B2B subsidiaries; 
-* Hospitals, Nursing homes, Nursaries, Local authorities
-* Additional payment gateways/methods and delayed payment/invoicing model
-* Digital Kiosk promotion - interactive displays/touchscreens;
-* Email sign-up / QR code to download app
-
-#### eLearning
-
-* Franchisee
-* Chef vlogs
-* Concessions
-  
+* Set reminders/notifications (meal plan, deliveries)
+* Audio descriptive (as per 'Augmented Reality' section)
+* Recommendations (tailored)
