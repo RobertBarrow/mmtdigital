@@ -1,17 +1,20 @@
 # Wiltshire Farm Foods - Strategy Outline document (May 2019)
 
+There is some routine maintenance work to be had through the recommended Kentico updates and the regression test/fix cycle for the existing Microsoft Dynamics interface.  There is also some potential for development work around enhancements that are made possible by these updates, however the main focus for us this year is around the personalisation of the customer experience. This can be achieved through data analytics (website, email and social media interactions) and innovative technologies such as ChatBot/AI and Augmented Reality extensions.
+
 ## Existing website
 
 ### Maintenance
 
 * Kentico upgrades - from 8.x to 12.x
-* Microsoft Dynamics ERP - regression testing, fix and deploy updates
+* Microsoft Dynamics ERP - regression test, fix and deploy updates as required
 * Potential Microsoft SharePoint integration
+* Remodel based on MVC architecture
 
 ### Payments
 
-* Additional payment gateways - PayPal, Mastercard, VISA
-* Additional payment methods - Credit card, Debit card, PayPal, Gift Card, Voucher code
+* Existing payment methods - Credit/debit card (MasterCard, Visa, Maestro and Solo), Cash, Cheque and Voucher (paper)
+* Additional payment methods - PayPal, Gift Card, eVoucher code
 
 ### Website Personalisation
 
@@ -28,11 +31,11 @@
 
 ### ChatBot
 
-* AI chatbot backed up by 24/7 order line team
+* AI chatbot backed up by 24/7 order line team (live chat)
 
 ## Apetito
 
-* Analytics (search queries, page visits, purchase history, dietry requirements, demographics, geographics)
+* Data Analytics (search queries, page visits, purchase history, dietry requirements, demographics, geographics, devices)
 * Franchisee support (via video based eLearning portal)
 * Website re-skin/re-model for other B2B subsidiaries;
 * Hospitals, Nursing homes, Nursaries, Local authorities
@@ -51,7 +54,7 @@
 #### Orders
 
 * Browse meals
-* Add to basket
+* Add Meal to basket
 * Checkout
 * Call 24/7 order line team
   
@@ -95,7 +98,11 @@
 
 ### Voice Assistance
 
-* Alexa, Siri, Cortana, Google Assistant etc.
+* Tailored skillsets for Alexa, Siri, Cortana, Google Assistant etc.
 * Set reminders/notifications (meal plan, deliveries)
 * Audio descriptive (as per 'Augmented Reality' section)
 * Recommendations (tailored)
+* Add Meal to Basket
+* Review Basket
+* Change default payment method
+* Checkout
