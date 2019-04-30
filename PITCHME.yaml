@@ -1,0 +1,6 @@
+# Plug-ins & configuration
+charts : true
+
+# Look-and-Feel
+logo : assets/images/wiltshire_farm_foods.png
+# theme : night
