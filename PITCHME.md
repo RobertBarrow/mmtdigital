@@ -24,6 +24,7 @@ Not just a website to order food - but a personal organiser assisting in the oft
 
 ![Editing](assets/images/editing_meal_planner.png)
 
+
 ---
 
 ---?image=assets/images/dietary_requirements.png&position=right&size=50%
