@@ -1,15 +1,12 @@
 # Wiltshire Farm Foods
 
 ---
-@snap[west]
 
 * Kentico upgrades
 * Microsoft Dynamics regression testing
 * Microsoft SharePoint integration
 * Additional Payment methods
 * Personalisation
-
-@snapend
 
 ---?image=assets/images/meal_planner__smallest.jpg&position=right&size=50%
 
