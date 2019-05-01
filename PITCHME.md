@@ -16,7 +16,7 @@
 
 @snap[west span-50]
 
-## The Meal Planner
+## Meal Planner
 
 Not just a website to order food - but a personal organiser assisting in the often difficult task of planning meals in a way that provides variety and a well balanced diet.
 
@@ -24,7 +24,7 @@ Not just a website to order food - but a personal organiser assisting in the oft
 
 ---
 
-### ChatBot
+### AI ChatBot
 
 * Helping with search and making recommendations
 * Interfacing with Meal Planner and order history
@@ -34,7 +34,7 @@ Not just a website to order food - but a personal organiser assisting in the oft
 
 ### Franchisee support
 
-eLearning platform - more than just marketing literature
+eLearning platform - not just marketing literature
 
 ---
 
