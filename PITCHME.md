@@ -1,7 +1,7 @@
 # Wiltshire Farm Foods
 
 ---
-@snap[west] @ulspaced text
+@snap[west]
 
 * Kentico upgrades
 * Microsoft Dynamics regression testing
@@ -9,7 +9,6 @@
 * Additional Payment methods
 * Personalisation
 
-@ulend 
 @snapend
 
 ---?image=assets/images/meal_planner__smallest.jpg&position=right&size=50%
