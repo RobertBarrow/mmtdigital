@@ -22,7 +22,7 @@ Not just a website to order food - but a personal organiser assisting in the oft
 
 ---
 
-![Logo](assets/images/editing_meal_planner.png)
+![Editing](assets/images/editing_meal_planner.png)
 
 ---
 
