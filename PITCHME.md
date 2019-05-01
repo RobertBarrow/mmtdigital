@@ -2,6 +2,8 @@
 
 ---
 
+## Updates for 2019
+
 * Kentico upgrades
 * Microsoft Dynamics regression testing
 * Microsoft SharePoint integration
