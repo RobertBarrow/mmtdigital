@@ -32,7 +32,7 @@ There is some routine maintenance work to be had through the recommended Kentico
 
 #### Other use of data analytics
 
-* Targeted discounts & eVouchers
+* Targeted offers, discounts & eVouchers
 * Tailored email marketing
 
 ## Apetito
