@@ -23,7 +23,7 @@ Not just a website to order food - but a personal organiser assisting in the oft
 @snapend
 
 @snap[east]
-![Image](assets/images/meal_planner__small.jpg)
+![Image](assets/images/meal_planner__smallest.jpg)
 @snapend
 
 ---
