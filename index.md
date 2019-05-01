@@ -31,6 +31,7 @@ There is some routine maintenance work to be had through the recommended Kentico
 * Review a Meal
 
 #### Other use of data analytics
+
 * Targeted discounts & eVouchers
 * Tailored email marketing
 
