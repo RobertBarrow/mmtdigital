@@ -25,8 +25,8 @@ Not just a website to order food - but a personal organiser assisting in the oft
 
 ### Tailored
 
-* Food allergies
-* Dietary restrictions
+* Food allergies & intolerances
+* Dietary restrictions (health, religion)
 * Preferences
 
 ---
