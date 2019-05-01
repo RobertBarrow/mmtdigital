@@ -1,7 +1,7 @@
 # Wiltshire Farm Foods
 
 ---
-@snap[west]
+@snap[west] @ulspaced text
 
 * Kentico upgrades
 * Microsoft Dynamics regression testing
@@ -9,13 +9,14 @@
 * Additional Payment methods
 * Personalisation
 
+@ulend 
 @snapend
 
 ---?image=assets/images/meal_planner_small.jpg
 
 ## The Meal Planner
 
-Not just a website to order food - but a personal organiser assisting in the often difficult task of planning meals in a way that provides variety and well balanced diet.
+Not just a website to order food - but a personal organiser assisting in the often difficult task of planning meals in a way that provides variety and a well balanced diet.
 
 ---
 
