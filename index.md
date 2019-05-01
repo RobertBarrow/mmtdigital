@@ -1,66 +1,67 @@
-# Wiltshire Farm Foods - Strategy Outline document (May 2019)
+# Wiltshire Farm Foods - Technical Strategy Plan (May 2019)
 
-There is some routine maintenance work to be had through the recommended Kentico updates and the regression test/fix cycle for the existing Microsoft Dynamics interface.  There is also some potential for development work around enhancements that are made possible by these updates, however the main focus for us this year is around the personalisation of the customer experience. This can be achieved through data analytics (website, email and social media interactions) and innovative technologies such as ChatBot/AI and Augmented Reality extensions.
+There is some routine maintenance work to be had through the recommended Kentico updates and the regression test/fix cycle for the existing Microsoft Dynamics interface.  There is also some potential for some development work around enhancements and new functionality made possible by these updates.  However, the main focus for this account should be the personalisation of the customer experience. This can be achieved through data analytics (website, email and social media interactions) which can be used to generate recommendations, but also by introducing a new core feature, The "Meal Planner", and through the use of more innovative technologies such as AI ChatBot and Augmented Reality extensions.
 
-## Existing website
+## Existing WFF website
 
 ### Maintenance
 
 * Kentico upgrades - from 8.x to 12.x
 * Microsoft Dynamics ERP - regression test, fix and deploy updates as required
-* Potential Microsoft SharePoint integration
-* Remodel based on MVC architecture
+* Potential for Microsoft SharePoint integration
+* Some remodelling work based on MVC architecture
 
 ### Payments
 
 * Existing payment methods - Credit/debit card (MasterCard, Visa, Maestro and Solo), Cash, Cheque and Voucher (paper)
-* Additional payment methods - PayPal, Gift Card, eVoucher code
+* Additional payment methods - PayPal, Gift Card, eVoucher code -- all make it easier for 3rd parties to contribute
 
 ### Website Personalisation
 
+#### New Feature - The Meal Planner
+
 * Add Allergies and medical conditions (e.g. Celiac disease)
-* Set Dietary preferences (e.g. low sugar)
+* Set Dietary preferences (e.g. low sugar/fat/salt)
+* Browse recommendations
+* AI ChatBot backed up by 24/7 order line team (i.e. chatbot can hand over to live chat)
 * View Meal planner
 * Add Meal to Meal planner
 * Add Meal to Favourites
 * Rate a Meal
 * Review a Meal
-* Browse recommendations
+
+#### Other use of data analytics
 * Targeted discounts & eVouchers
 * Tailored email marketing
 
-### ChatBot
-
-* AI chatbot backed up by 24/7 order line team (live chat)
-
 ## Apetito
 
-* Data Analytics (search queries, page visits, purchase history, dietry requirements, demographics, geographics, devices)
+* Data Analytics (search queries, page visits, purchase history, dietary requirements, demographics, geographics, devices)
 * Franchisee support (via video based eLearning portal)
-* Website re-skin/re-model for other B2B subsidiaries;
-* Hospitals, Nursing homes, Nursaries, Local authorities
+* Website re-skin/re-model for other B2B subsidiaries; Hospitals, Nursing homes, Nursaries, Local authorities
 * Additional payment gateways/methods and delayed payment/invoicing model
 * Greenfield App development project
-* Voice assistance project
+* Voice assistant project
 
 ### Apetito / Wiltshire Farm Foods app
 
-#### Security & simplification of authentication
+#### Simplification of authentication
 
 * Touch ID
 * Face ID
 * PIN
   
-#### Orders
+#### Basic eCommerce funcationality - Orders
 
 * Browse meals
 * Add Meal to basket
 * Checkout
 * Call 24/7 order line team
+* View orders
   
-#### Payments
+#### Digital Payments
 
-* Move away from cash/cheque and manual payment confirmation
+* Move away from cash/cheque (and associated manual payment confirmation)
 * Digital wallet (Apple Pay, G Pay, Samsung Pay etc.)
 * Gift cards, eVouchers and other account credits
 * Discount codes
@@ -75,15 +76,13 @@ There is some routine maintenance work to be had through the recommended Kentico
 
 #### Augmented Reality
 
-* Barcode/QR code scanning
+* Barcode scanning (or QR code scanning if added to packaging)
 * Large text display & Audio Descriptive options
-* Read Meal description and "Use by" date
+* Read Meal description, traffic light colour-coding and "Use by" or "Best before" date
 * Read Ingredients (highlighing potential allegens etc.)
 * Read Cooking instructions
-* Provide Additional information;
-* Nutritional value
-* Packaging recycling information
-* Provenance; supplier locality, Animal welfare, Ethical & Sustainable sources
+* Read Packaging recycling information
+* Can also provide additional information such as Nutritional value, Provenance etc.
 
 #### Personalisation
 
@@ -96,7 +95,7 @@ There is some routine maintenance work to be had through the recommended Kentico
 * Add Meal reviews
 * Browse recommendations
 
-### Voice Assistance
+### Voice Assistants
 
 * Tailored skillsets for Alexa, Siri, Cortana, Google Assistant etc.
 * Set reminders/notifications (meal plan, deliveries)
