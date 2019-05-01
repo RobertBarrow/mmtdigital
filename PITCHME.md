@@ -12,11 +12,15 @@
 @ulend 
 @snapend
 
----?image=assets/images/meal_planner__smallest.jpg&size=50% 100%&color=lightgray
+---?image=assets/images/meal_planner__smallest.jpg&position=right&size=50%
+
+@snap[west span-50]
 
 ## The Meal Planner
 
 Not just a website to order food - but a personal organiser assisting in the often difficult task of planning meals in a way that provides variety and a well balanced diet.
+
+@snapend
 
 ---
 
