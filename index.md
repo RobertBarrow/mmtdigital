@@ -18,14 +18,15 @@ There is some routine maintenance work to be had through the recommended Kentico
 
 ### Website Personalisation
 
-#### New Feature - The Meal Planner
+#### New Feature - Meal Planner
 
 * Add Allergies and medical conditions (e.g. Celiac disease)
 * Set Dietary preferences (e.g. low sugar/fat/salt)
 * Browse recommendations
-* AI ChatBot backed up by 24/7 order line team (i.e. chatbot can hand over to live chat)
-* View Meal planner
-* Add Meal to Meal planner
+* ChatBot (AI backed up by 24/7 order line team i.e. chatbot can hand over to live chat)
+* View Meal Planner
+* Share Meal Planner
+* Add Meal to Meal Planner
 * Add Meal to Favourites
 * Rate a Meal
 * Review a Meal
