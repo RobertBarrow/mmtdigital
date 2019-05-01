@@ -20,6 +20,12 @@ Not just a website to order food - but a personal organiser assisting in the oft
 
 @snapend
 
+---
+
+![Logo](assets/amages/editing_meal_planner.jpg)
+
+---
+
 ---?image=assets/images/dietary_requirements.png&position=right&size=50%
 
 @snap[west span-50]
