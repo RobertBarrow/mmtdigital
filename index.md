@@ -1,6 +1,6 @@
 # Wiltshire Farm Foods - Technical Strategy Plan (May 2019)
 
-There is some routine maintenance work to be had through the recommended Kentico updates and the regression test/fix cycle for the existing Microsoft Dynamics interface.  There is also some potential for some development work around enhancements and new functionality made possible by these updates.  However, the main focus for this account should be the personalisation of the customer experience. This can be achieved through data analytics (website, email and social media interactions) which can be used to generate recommendations, but also by introducing a new core feature, The "Meal Planner", and through the use of more innovative technologies such as AI ChatBot and Augmented Reality extensions.
+There is some routine maintenance work to be had through the recommended Kentico updates and the regression test/fix cycle for the existing Microsoft Dynamics interface.  There is also some potential for development work around enhancements and new functionality made possible by these updates.  However, the main focus for this account should be the personalisation of the customer experience. This can be achieved through data analytics (website, email and social media interactions) which can be used to generate recommendations, but also by introducing a new core feature, The "Meal Planner", and through the use of more innovative technologies such as AI ChatBot and Augmented Reality extensions.
 
 ## Existing WFF website
 
