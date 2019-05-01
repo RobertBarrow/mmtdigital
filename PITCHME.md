@@ -21,6 +21,14 @@ Not just a website to order food - but a personal organiser assisting in the oft
 
 @snapend
 
+---?image=assets/images/dietary_requirements.png&position=right
+
+### Tailored
+
+* Food allergies
+* Dietary restrictions
+* Preferences
+
 ---
 
 ### AI ChatBot
