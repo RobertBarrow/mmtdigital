@@ -30,13 +30,11 @@ Not just a website to order food - but a personal organiser assisting in the oft
 
 ### Tailored
 
-@div[left-40]
-<br><br>
+@div[left-30]
 ![Tailored](assets/images/dietary_requirements.png)
 @divend
 
 @div[right-60]
-<br><br><br>
 @ul[brighten]
 
 * Food allergies & intolerances
