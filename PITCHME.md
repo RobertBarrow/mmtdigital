@@ -14,7 +14,9 @@
 
 ### Payments
 
+@snap[north span-50]
 ![GiftCard](assets/images/gift_card.png)
+@snapend
 
 @div[left-30 fragment]
 ![eVoucher](assets/images/evoucher.png)
