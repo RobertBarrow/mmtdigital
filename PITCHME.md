@@ -33,7 +33,7 @@ Not just a website to order food - but a personal organiser assisting in the oft
 
 ### Tailored
 
-* Food allergies & intolerances, dietary restrictions (health, religion) and personal preferences
+Food allergies & intolerances, dietary restrictions (e.g. health, religion) and personal preferences.
 
 @snapend
 
