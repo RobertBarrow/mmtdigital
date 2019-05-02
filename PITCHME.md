@@ -40,12 +40,18 @@ Not just a website to order food - but a personal organiser assisting in the oft
 @ul[brighten]
 
 * Food allergies & intolerances
-* Dietary restrictions (e.g. health, religion)
+* Dietary restrictions
 * Personal preferences
   
 @ulend
 @divend
 
+Note:
+
+* Allergies, food intolerances and other medical conditions e.g. Celiac disease, diabetes
+* Set other types of dietary restrictions such as religion e.g. halal meat
+* Set personal diet preferences e.g. low sugar/fat/salt
+  
 ---
 
 ### AI ChatBot
