@@ -122,14 +122,49 @@ Note:
 
 ### QR Codes
 
----
-@title[Audio descriptive]
+![Editing](assets/images/qr_codes.png)
 
-### Audio descriptive
+Note:
+
+* QR codes added to printed catalog and meal packaging
+* Provide customisable content and augmented reality
+* Large text display & Audio Descriptive options
+
+---
+@title[Audio Description]
+
+### Audio Description
+
+![Editing](assets/images/audio_description.png)
+
+Note:
+
+* Read Meal description, traffic light colour-coding and "Use by" or "Best before" date
+* Read Ingredients (highlighing potential allegens etc.)
+* Read Cooking instructions
+* Read Packaging recycling information
+* Can also provide additional information such as Nutritional value, Provenance etc.
 
 ---
 @title[Voice assistant]
 
-### Voice assistant
+### Voice Assistants
 
+@div[left-50 fragment]
+![eVoucher](assets/images/amazon_alexa.png)
+@divend
 
+@div[right-50 fragment]
+![PayPal](assets/images/google_assistant.png)
+@divend
+
+Note:
+
+* Tailored skillsets for Alexa, Google Assistant, Siri, Cortana etc.
+* Set reminders/notifications (meal plan, deliveries)
+* Audio descriptive (as per 'QR codes')
+* Recommendations (tailored)
+* Add Meal to Basket
+* Review Basket
+* Change default payment method
+* Checkout
