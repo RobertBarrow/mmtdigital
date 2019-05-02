@@ -12,33 +12,41 @@
 * Personalisation
 
 ---
-@title[Payments]
+@title[Gift Card]
 
-### Payment methods
+### Gift Card
 
 @snap[centre]
 ![GiftCard](assets/images/gift_card.png){:height="60%" width="60%"}
 @snapend
 
-@div[left-30 fragment]
+Note:
+
+* Existing payment methods - Credit/debit card (MasterCard, Visa, Maestro and Solo), Cash, Cheque and Voucher (paper)
+* Additional payment methods - Gift Card - as per FAQ
+
+---
+@title[eVoucher & PayPal]
+
+### Additional payment methods
+
+@div[left-50 fragment]
 ![eVoucher](assets/images/evoucher.png)
 @divend
 
-@div[right-30 fragment]
+@div[right-50 fragment]
 ![PayPal](assets/images/paypal.png)
 @divend
 
 Note:
 
-* Existing payment methods - Credit/debit card (MasterCard, Visa, Maestro and Solo), Cash, Cheque and Voucher (paper)
-* Additional payment methods - Gift Card, eVoucher code, PayPal
+* Additional payment methods - eVoucher code, PayPal
 * Enabling 3rd parties to contribute to or simply fund the customer's account
-* 60% 21:36
   
 ---
 @title[Tailored]
 
-### Tailored to the individual
+### Tailored to the individual's needs
 
 @div[left-30]
 ![Tailored](assets/images/dietary_requirements.png)
@@ -110,3 +118,18 @@ Note:
 ### Apetito App
 
 ---
+@title[QR codes]
+
+### QR Codes
+
+---
+@title[Audio descriptive]
+
+### Audio descriptive
+
+---
+@title[Voice assistant]
+
+### Voice assistant
+
+
