@@ -24,7 +24,6 @@ Not just a website to order food - but a personal organiser assisting in the oft
 
 ![Editing](assets/images/editing_meal_planner.png)
 
-
 ---
 
 ---
@@ -39,9 +38,11 @@ Not just a website to order food - but a personal organiser assisting in the oft
 @div[right-60]
 <br><br><br>
 @ul[brighten]
-- Food allergies & intolerances
-- Dietary restrictions (e.g. health, religion)
-- Personal preferences
+
+* Food allergies & intolerances
+* Dietary restrictions (e.g. health, religion)
+* Personal preferences
+  
 @ulend
 @divend
 
