@@ -15,7 +15,7 @@
 ### Payments
 
 @snap[north span-50]
-![GiftCard](assets/images/gift_card.png)
+![GiftCard](assets/images/gift_card.png){:height="50%" width="50%"}
 @snapend
 
 @div[left-30 fragment]
