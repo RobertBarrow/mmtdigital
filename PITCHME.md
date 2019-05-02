@@ -16,7 +16,7 @@
 
 ### Payment methods
 
-@snap[north span-30]
+@snap[centre]
 ![GiftCard](assets/images/gift_card.png){:height="50%" width="50%"}
 @snapend
 
