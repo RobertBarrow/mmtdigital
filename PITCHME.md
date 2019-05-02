@@ -37,6 +37,8 @@ Not just a website to order food - but a personal organiser assisting in the oft
 
 @snapend
 
+![Tailored](assets/images/dietary_requirements.png)
+
 ---
 
 ### AI ChatBot
