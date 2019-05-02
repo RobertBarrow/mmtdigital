@@ -27,17 +27,23 @@ Not just a website to order food - but a personal organiser assisting in the oft
 
 ---
 
----?image=assets/images/dietary_requirements.png&position=right&size=50%
-
-@snap[west span-50]
+---
 
 ### Tailored
 
-Food allergies & intolerances, dietary restrictions (e.g. health, religion) and personal preferences.
-
-@snapend
-
+@div[left-40]
+<br><br>
 ![Tailored](assets/images/dietary_requirements.png)
+@divend
+
+@div[right-60]
+<br><br><br>
+@ul[brighten]
+- Food allergies & intolerances
+- Dietary restrictions (e.g. health, religion)
+- Personal preferences
+@ulend
+@divend
 
 ---
 
