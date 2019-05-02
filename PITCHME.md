@@ -16,7 +16,7 @@
 
 ## Meal Planner
 
-Not just a website to order food - but a personal organiser assisting in the often difficult task of planning meals in a way that provides variety and a well balanced diet.
+Not just another way to order food - but a personal organiser assisting in the often difficult task of planning meals in a way that provides variety and a well balanced diet.
 
 @snapend
 
