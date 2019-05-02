@@ -17,7 +17,7 @@
 ### Payment methods
 
 @snap[centre]
-![GiftCard](assets/images/gift_card.png)
+![GiftCard](assets/images/gift_card.png){:height="60%" width="60%"}
 @snapend
 
 @div[left-30 fragment]
@@ -33,7 +33,7 @@ Note:
 * Existing payment methods - Credit/debit card (MasterCard, Visa, Maestro and Solo), Cash, Cheque and Voucher (paper)
 * Additional payment methods - Gift Card, eVoucher code, PayPal
 * Enabling 3rd parties to contribute to or simply fund the customer's account
-* 21:34
+* 60% 21:36
   
 ---
 @title[Tailored]
