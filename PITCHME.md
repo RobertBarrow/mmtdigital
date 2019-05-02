@@ -22,9 +22,13 @@ Not just another way to order food - but a personal organiser assisting in the o
 
 ---
 
+## Editing the Meal Planner
+
 ![Editing](assets/images/editing_meal_planner.png)
 
----
+Note:
+
+* Rules and logic based on the customer's requirements and order history
 
 ---
 
@@ -48,11 +52,13 @@ Note:
 
 * Allergies, food intolerances and other medical conditions e.g. Celiac disease, diabetes
 * Set other types of dietary restrictions such as religion e.g. halal meat
-* Set personal diet preferences e.g. low sugar/fat/salt
+* Set personal diet preferences e.g. low sugar / low fat / low salt
   
 ---
 
-### AI ChatBot
+### AI ChatBot & Live Chat
+
+Note:
 
 * Helping with search and making recommendations
 * Interfacing with Meal Planner and order history
@@ -64,6 +70,11 @@ Note:
 
 eLearning platform - not just marketing literature
 
+Note:
+
+* Videos covering best practices and training for new employees
+* Topics such as local marketing and social media engagement
+  
 ---
 
 ### Apetito App
