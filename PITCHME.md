@@ -10,26 +10,26 @@
 * Additional Payment methods
 * Personalisation
 
----?image=assets/images/meal_planner__smallest.jpg&position=right&size=50%
-
-@snap[west span-50]
-
-## Meal Planner
-
-Not just another way to order food - but a personal organiser assisting in the often difficult task of planning meals in a way that provides variety and a well balanced diet.
-
-@snapend
-
 ---
 
-## Editing the Meal Planner
+### Payments
 
-![Editing](assets/images/editing_meal_planner.png)
+![GiftCard](assets/images/gift_card.png)
+
+@div[left-30 fragment]
+![eVoucher](assets/images/evoucher.png)
+@divend
+
+@div[right-30 fragment]
+![PayPal](assets/images/paypal.png)
+@divend
 
 Note:
 
-* Rules and logic based on the customer's requirements and order history
-
+* Existing payment methods - Credit/debit card (MasterCard, Visa, Maestro and Solo), Cash, Cheque and Voucher (paper)
+* Additional payment methods - Gift Card, eVoucher code, PayPal
+* Enabling 3rd parties to contribute to or simply fund the customer's account
+  
 ---
 
 ### Tailored
@@ -54,6 +54,26 @@ Note:
 * Set other types of dietary restrictions such as religion e.g. halal meat
 * Set personal diet preferences e.g. low sugar / low fat / low salt
   
+---?image=assets/images/meal_planner__smallest.jpg&position=right&size=50%
+
+@snap[west span-50]
+
+## Meal Planner
+
+Not just another way to order food - but a personal organiser assisting in the often difficult task of planning meals in a way that provides variety and a well balanced diet.
+
+@snapend
+
+---
+
+## Editing the Meal Planner
+
+![Editing](assets/images/editing_meal_planner.png)
+
+Note:
+
+* Rules and logic based on the customer's requirements and order history
+
 ---
 
 ### AI ChatBot & Live Chat
