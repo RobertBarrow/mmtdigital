@@ -1,6 +1,7 @@
 # Wiltshire Farm Foods
 
 ---
+@title[Updates for 2019]
 
 ## Updates for 2019
 
@@ -11,10 +12,11 @@
 * Personalisation
 
 ---
+@title[Payments]
 
-### Payments
+### Payment methods
 
-@snap[north span-50]
+@snap[north span-30]
 ![GiftCard](assets/images/gift_card.png){:height="50%" width="50%"}
 @snapend
 
@@ -33,8 +35,9 @@ Note:
 * Enabling 3rd parties to contribute to or simply fund the customer's account
   
 ---
+@title[Tailored]
 
-### Tailored
+### Tailored to the individual
 
 @div[left-30]
 ![Tailored](assets/images/dietary_requirements.png)
@@ -57,7 +60,7 @@ Note:
 * Set personal diet preferences e.g. low sugar / low fat / low salt
   
 ---?image=assets/images/meal_planner__smallest.jpg&position=right&size=50%
-
+@title[Meal Planner]
 @snap[west span-50]
 
 ## Meal Planner
@@ -67,6 +70,7 @@ Not just another way to order food - but a personal organiser assisting in the o
 @snapend
 
 ---
+@title[Editing]
 
 ## Editing the Meal Planner
 
@@ -77,6 +81,7 @@ Note:
 * Rules and logic based on the customer's requirements and order history
 
 ---
+@title[Chatbot]
 
 ### AI ChatBot & Live Chat
 
@@ -87,6 +92,7 @@ Note:
 * Hand-over to live chat leveraging 24/7 availability
 
 ---
+@title[eLearning]
 
 ### Franchisee support
 
@@ -98,6 +104,7 @@ Note:
 * Topics such as local marketing and social media engagement
   
 ---
+@title[Apetito]
 
 ### Apetito App
 
