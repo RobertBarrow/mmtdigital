@@ -29,7 +29,7 @@ New Meal Planner and ChatBot functionality are great examples of how the data an
 * Targeted offers, discounts & eVouchers
 * Tailored email marketing
 
-#### New Feature - Meal Planner
+### New Feature - Meal Planner
 
 * Add Allergies and medical conditions (e.g. Celiac disease)
 * Set Dietary preferences (e.g. low sugar/fat/salt)
@@ -99,7 +99,7 @@ Lastly, we should recommend they look at some other home-based smart devices - e
 * Read Packaging recycling information
 * Can also provide additional information such as Nutritional value, Provenance etc.
 
-#### Personalisation
+#### App Personalisation
 
 * Add Allergies and medical conditions (e.g. Celiac disease)
 * Set Dietary preferences (e.g. low sugar)
