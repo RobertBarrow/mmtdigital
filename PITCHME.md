@@ -122,7 +122,7 @@ Note:
 
 ### QR Codes
 
-![Editing](assets/images/qr_codes.png)
+![QR](assets/images/qr_codes.png)
 
 Note:
 
@@ -135,7 +135,7 @@ Note:
 
 ### Audio Description
 
-![Editing](assets/images/audio_description.png)
+![AD](assets/images/audio_description.png)
 
 Note:
 
