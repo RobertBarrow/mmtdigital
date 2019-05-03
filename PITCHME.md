@@ -17,7 +17,7 @@
 ### Gift Card
 
 @snap[centre]
-![GiftCard](assets/images/gift_card.png){:height="60%" width="60%"}
+![GiftCard](assets/images/gift_card.png){ border: none; }
 @snapend
 
 Note:
