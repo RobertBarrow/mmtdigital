@@ -3,4 +3,5 @@ charts : true
 
 # Look-and-Feel
 logo : assets/images/wiltshire_farm_foods.png
-# theme : night
+theme : white
+theme-override : assets/css/PITCHME.css
