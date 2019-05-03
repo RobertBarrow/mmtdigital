@@ -180,6 +180,7 @@ Note:
 Note:
 
 * Read Cooking instructions
+* Customised according to the power of the customer's Microwave
 
 ---
 @title[Recycling Instructions]
