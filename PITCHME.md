@@ -150,7 +150,6 @@ Note:
 ![AD](assets/images/audio_description.png)
 @divend
 
-
 Note:
 
 * QR codes added to printed catalog and meal packaging
