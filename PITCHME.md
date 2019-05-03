@@ -198,6 +198,7 @@ Note:
 ![Plastics Recycling](assets/images/plastics.png)
 
 Note:
+
 * Read Packaging recycling information
 * Founding members of the UK Plastics Pact
 * Ambitious targets to hit by 2025
