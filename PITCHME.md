@@ -142,7 +142,14 @@ Note:
 
 ### QR Codes
 
+@div[left-50 fragment]
 ![QR](assets/images/qr_codes.png)
+@divend
+
+@div[right-50 fragment]
+![AD](assets/images/audio_description.png)
+@divend
+
 
 Note:
 
@@ -150,21 +157,6 @@ Note:
 * Provide customisable content and augmented reality
 * Large text display & Audio Descriptive options
 * Additional data being fed back for analytics
-
----
-@title[Audio Description]
-
-### Audio Description
-
-![AD](assets/images/audio_description.png)
-
-Note:
-
-* Read Meal description, traffic light colour-coding and "Use by" or "Best before" date
-* Read Ingredients (highlighing potential allegens etc.)
-* Read Cooking instructions
-* Read Packaging recycling information
-* Can also provide additional information such as Nutritional value, Provenance etc.
 
 ---
 @title[Traffic Lights]
