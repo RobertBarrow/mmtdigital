@@ -79,15 +79,27 @@ Not just another way to order food - but a personal organiser assisting in the o
 @snapend
 
 ---
-@title[Editing]
+@title[Healthy eating]
 
-## Editing the Meal Planner
+## Healthy Eating
 
-![Editing](assets/images/editing_meal_planner.png)
+![Healthy Eating](assets/images/food_switch_supporters.png)
+
+Note:
+
+* Initiatives such as Eatwell Guide, Change 4 life etc.
+  
+---
+@title[Using Meal Planner]
+
+## Using the Meal Planner
+
+![Using Meal Planner](assets/images/editing_meal_planner.png)
 
 Note:
 
 * Rules and logic based on the customer's requirements and order history
+* Rules-based Discounts encouraging impulse buys, larger orders
 
 ---
 @title[Chatbot]
@@ -117,6 +129,14 @@ Note:
 
 ### Apetito App
 
+![Omnichannel](assets/images/omnichannel_strategy.png)
+
+Note:
+
+* Start building out the omnichannel strategy
+* Integrating analytics from multiple sources
+* Further tailoring the service
+
 ---
 @title[QR codes]
 
@@ -129,6 +149,7 @@ Note:
 * QR codes added to printed catalog and meal packaging
 * Provide customisable content and augmented reality
 * Large text display & Audio Descriptive options
+* Additional data being fed back for analytics
 
 ---
 @title[Audio Description]
@@ -144,6 +165,42 @@ Note:
 * Read Cooking instructions
 * Read Packaging recycling information
 * Can also provide additional information such as Nutritional value, Provenance etc.
+
+---
+@title[Traffic Lights]
+
+### Traffic Lights
+
+![Traffic Lights](assets/images/traffic_lights_food_labelling.png)
+
+Note:
+
+* Read Meal description, traffic light colour-coding and "Use by" or "Best before" date
+* Read Ingredients (highlighing potential allegens etc.)
+* Can also provide additional information such as Nutritional value, Provenance etc.
+
+---
+@title[Cooking Instructions]
+
+### Cooking Instructions
+
+![Cooking Instructions](assets/images/cooking_instructions.png)
+
+Note:
+* Read Cooking instructions
+
+---
+@title[Recycling Instructions]
+
+### Packaging Recycling
+
+![Plastics Recycling](assets/images/plastics.png)
+
+Note:
+* Read Packaging recycling information
+* Founding members of the UK Plastics Pact
+* Ambitious targets to hit by 2025
+* 100% of plastic packaging to be reusable, recyclable or compostable
 
 ---
 @title[Voice assistant]
@@ -168,3 +225,5 @@ Note:
 * Review Basket
 * Change default payment method
 * Checkout
+* Even more data for analytics
+* Valuable insight from the type of questions being asked
