@@ -187,6 +187,7 @@ Note:
 ![Cooking Instructions](assets/images/cooking_instructions.png)
 
 Note:
+
 * Read Cooking instructions
 
 ---
