@@ -195,6 +195,7 @@ Note:
 * Founding members of the UK Plastics Pact
 * Ambitious targets to hit by 2025
 * 100% of plastic packaging to be reusable, recyclable or compostable
+* The Elderly are probably one of the most conscientious demographics
 
 ---
 @title[Voice assistant]
